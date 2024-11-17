@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-salih&label=Profile%20views&color=3e6075&style=flat" alt="youssef-salih" /> </p>
 
-- 👨‍💻 All of my projects are available at [youssefsalih.netlify.app](youssefsalih.netlify.app)
+- 👨‍💻 All of my projects are available at [youssefsalih-dev.vercel.app](youssefsalih-dev.vercel.app)
 
 - 💬 Ask me about **react, angular, spring**
 
